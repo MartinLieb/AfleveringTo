@@ -1,4 +1,4 @@
-package ObjectsConstructors;
+package objectsconstructors;
 
 import java.awt.*;
 
