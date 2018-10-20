@@ -15,13 +15,13 @@ public class PoelseConstructor {
 
         }
 
-    public PoelseConstructor(Color color, int lenght, String type){
+    public PoelseConstructor(Color color, int lenght, String type){ // her laves constructoren
 
-        Color poelsefarve = color;
-        int poelselenght = lenght;
-        String poelsetype = type;
+        Color poelsefarve = color; // her defineres farven
+        int poelselenght = lenght; // her defineres længden
+        String poelsetype = type; // her defineres typen
 
-        System.out.println("New poelse object created");
+        System.out.println("New poelse object created"); // her printer vi at objektet er blevet lavet
 
     }
 }
