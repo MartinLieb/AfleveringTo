@@ -7,7 +7,7 @@ public class LocateInt {
         // Her laver vi et array med 9 værdier og finder den 6. værdi
         // vi finder den 6 værdi på plads 5, fordi et array starter på 0
 
-        int[] anArray = { // her lavet vores array og værdierne indsættes
+        int[] anArray = { // her laves vores array og værdierne indsættes
                 1, 2, 3,
                 4, 5, 6,
                 7, 8, 9
